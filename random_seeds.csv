@@ -1,0 +1,4 @@
+seed,plot,random_values_generated,notes
+30219,A3 extinction plot,25 q perturbations around q=0.5002,Each sampled q is held constant along its trajectory; uniform perturbation magnitude is ±0.0002.
+30220,Equal-birth/death extinction plot for n=1–1000,25 q perturbations around q=0.5,Each sampled q is held constant along its trajectory; uniform perturbation magnitude is ±0.0002.
+30221,Side-by-side small-population extinction plots,25 q perturbations around q=0.5 followed by 25 around q=0.5002,One random-number stream is used sequentially for both panels; each sampled q is held constant along its trajectory; uniform perturbation magnitude is ±0.0002.
